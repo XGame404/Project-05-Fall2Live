@@ -45,9 +45,8 @@ MonoBehaviour:
     - line: '|   useOnDemandResources: 0'
     - line: '|   accelerometerFrequency: 60'
     - line: '|   companyName: DefaultCompany'
-    - line: '|   productName: Fall2Live'
-    - line: '|   defaultCursor: {fileID: 2800000, guid: 432d0fcc9e2f18545ad2c6266e7487bb,
-        type: 3}'
+    - line: '|   productName: Project 05 - Fall2Live'
+    - line: '|   defaultCursor: {instanceID: 0}'
     - line: '|   cursorHotspot: {x: 0, y: 0}'
     - line: '|   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b:
         0.1254902, a: 1}'
@@ -178,12 +177,7 @@ MonoBehaviour:
     - line: '|   preloadedAssets:'
     - line: '|   - {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b,
         type: 3}'
-    - line: '|   - {fileID: 216684801008767314, guid: ec8f472a4eaa6e54cbf2434a14ec4e10,
-        type: 2}'
-    - line: '|   - {fileID: 1800360386331562500, guid: f465abbfbfe486c469a18ad176cab662,
-        type: 2}'
-    - line: '|   - {fileID: 11400000, guid: 8ca78125edd3b4c408e897b231749533, type:
-        2}'
+    - line: '|   - {instanceID: 0}'
     - line: '|   metroInputSource: 0'
     - line: '|   wsaTransparentSwapchain: 0'
     - line: '|   m_HolographicPauseOnTrackingLoss: 1'
@@ -308,8 +302,8 @@ MonoBehaviour:
     - line: '|   AndroidTargetArchitectures: 2'
     - line: '|   AndroidSplashScreenScale: 0'
     - line: '|   androidSplashScreen: {instanceID: 0}'
-    - line: '|   AndroidKeystoreName: '
-    - line: '|   AndroidKeyaliasName: '
+    - line: '|   AndroidKeystoreName: "C:/Users/trann/OneDrive/M\xE1y t\xEDnh/xgame.keystore"'
+    - line: '|   AndroidKeyaliasName: mainkey'
     - line: '|   AndroidEnableArmv9SecurityFeatures: 0'
     - line: '|   AndroidEnableArm64MTE: 0'
     - line: '|   AndroidBuildApkPerCpuArchitecture: 0'
@@ -318,7 +312,7 @@ MonoBehaviour:
     - line: '|   AndroidEnableTango: 0'
     - line: '|   androidEnableBanner: 1'
     - line: '|   androidUseLowAccuracyLocation: 0'
-    - line: '|   androidUseCustomKeystore: 0'
+    - line: '|   androidUseCustomKeystore: 1'
     - line: '|   m_AndroidBanners:'
     - line: '|   - width: 320'
     - line: '|     height: 180'
@@ -1069,6 +1063,6 @@ MonoBehaviour:
         m_DebugSymbolFormat: 5
         m_CurrentDeploymentTargetId: __builtin__target_default
         m_BuildType: 2
-        m_BuildAppBundle: 0
+        m_BuildAppBundle: 1
         m_IPAddressToConnect: 
         m_SymlinkSources: 0

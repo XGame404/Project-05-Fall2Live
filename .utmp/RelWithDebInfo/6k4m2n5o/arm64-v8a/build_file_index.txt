@@ -1,0 +1,2 @@
+C:\Users\trann\Downloads\Project-05-Fall2Live\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\trann\Downloads\Project-05-Fall2Live\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
